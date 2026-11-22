@@ -1,4 +1,5 @@
 # Skill File · Pulse Intelligence
+| Module 1 · Save a Prompt as a Reusable Skill. Juno's skill file, authored with the M1 · Skill File Builder. Fill the tool, then paste its markdown over this file.
 
 ## Role
 
