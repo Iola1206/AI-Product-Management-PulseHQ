@@ -16,18 +16,18 @@ This repo is my final project for the **AI Product Management Certification**. I
 
 ## Module artifacts
 
-### 01 · Prompting
+### 01 · Prompting and Save as a Reusable Skill
 _Define and shape how Pulse Intelligence behaves._
 - **Skill file**, [`01-prompting/skill-file.md`](01-prompting/skill-file.md)
-- **Working prototype and debrief**, [`01-prompting/prototype.md`](01-prompting/prototype.md)
+- 
+### 02 · Opportunity. Feasibility and Prototyping of the idea worth pursing
+_Decide which AI opportunity to pursue, how to approach it and 
 
-### 02 · Opportunity & Feasibility
-_Decide which AI opportunity to pursue and how to approach it._
+- **Working prototype and debrief**, [`01-prompting/prototype.md`](01-prompting/prototype.md)
 - **Decision matrix**, [`02-opportunity-feasibility/decision-matrix.md`](02-opportunity-feasibility/decision-matrix.md)
 - **Strategy one-pager**, [`02-opportunity-feasibility/strategy-one-pager.md`](02-opportunity-feasibility/strategy-one-pager.md)
 
-### 03 · RAG & AI Requirements
-_Define the information architecture and requirements that ground AI outputs in relevant evidence._
+### 03 · RAG & AI PRD Engineers Can Build From
 - **AI PRD**, [`03-rag-ai-requirements/prd.md`](03-rag-ai-requirements/prd.md)
 - **RAG architecture specification**, [`03-rag-ai-requirements/rag-architecture.md`](03-rag-ai-requirements/rag-architecture.md)
 
