@@ -19,7 +19,7 @@ This repo is my final project for the **AI Product Management Certification**. I
 ### 01 · Prompting and Save as a Reusable Skill
 _Define and shape how Pulse Intelligence behaves._
 - **Skill file**, [`01-prompting/skill-file.md`](01-prompting/skill-file.md)
-- 
+  
 ### 02 · Opportunity. Feasibility and Prototyping of the idea worth pursing
 _Decide which AI opportunity to pursue, how to approach it and 
 
